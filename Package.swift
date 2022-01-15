@@ -24,7 +24,7 @@ let package = Package(
         .target(
             name: "Components",
             dependencies: [],
-            path: "Sources/Components"
+            path: "Components"
         )
     ]
 )
